@@ -41,10 +41,15 @@ This project is a Discord Announcement Bot integrated with a web interface. It a
 ---
 
 ## 📷 Project Output
-(Add screenshots here)
-- Frontend UI
-- Terminal logs
-- Discord message output
+
+### 🖥️ Frontend UI
+![Frontend UI](assets/ui.png)
+
+### 💻 Terminal Logs
+![Terminal Logs](assets/terminal.png)
+
+### 💬 Discord Message Output
+![Discord Output](assets/discord.png)
 
 ---
 
