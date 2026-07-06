@@ -35,27 +35,24 @@ This project is a Discord Announcement Bot integrated with a web interface. It a
 ---
 ## 📁 Project Structure
 
+```text
 discord-announcement-bot/
-│── assets/
+├── assets/
 │   ├── ui.png
 │   ├── terminal.png
 │   └── discord.png
-│
-│── bot/
-│
-│── public/
+├── bot/
+│   └── bot.js
+├── public/
 │   ├── index.html
 │   ├── style.css
 │   └── script.js
-│
-│── .env
-│── server.js
-│── package.json
-│── package-lock.json
-│── README.md
+├── .env
+├── server.js
+├── package.json
+├── package-lock.json
+└── README.md
 ```
-
----
 
 ## 🚀 Getting Started
 
